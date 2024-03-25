@@ -24,7 +24,7 @@
 			fill: #ab9c63;
 		}
 
-		svg#hb_cuts > g.is--active .hb-cut-shape,
+		svg#hb_cuts > g.is--active .hb-cut-text,
 		svg#hb_cuts > g:hover .hb-cut-text {
 			fill: white;
 		}
